@@ -15,7 +15,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saptarshi-sen1&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saptarshi-sen1&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
