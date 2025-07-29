@@ -9,13 +9,13 @@
 
 ### 🏆 GitHub Trophy Cabinet
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi-sen1&theme=gruvbox&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi-sen1&theme=tokyonight&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saptarshi-sen1&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saptarshi-sen1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
