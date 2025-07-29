@@ -9,7 +9,7 @@
 
 ### 🏆 GitHub Trophy Cabinet
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi-sen1&theme=discord&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi-sen1&theme=gruvbox&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
