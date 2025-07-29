@@ -7,25 +7,47 @@
 
 ---
 
+### 🏆 GitHub Trophy Cabinet
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi-sen1&theme=gruvbox&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=saptarshi-sen1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+### 📊 GitHub Stats
+
+![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saptarshi-sen1&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+### 💡 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-sen1&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### 🛠️ Languages & Tools I Use
 - 💻 C, C++, Python, Java
-- 🧠 RPA with UiPath | Automation enthusiast
+- 🤖 RPA with UiPath
 - 🌐 HTML, CSS, JavaScript
-- 🗃️ Git & GitHub for version control
+- 📦 Git, GitHub, VS Code
 
 ---
 
 ### 📈 Current Focus
-- Diving deep into **AI & automation**  
-- Building cool projects with **Neo4j**, **Google Cloud**, and **UiPath**  
-- Learning and sharing knowledge through real-world coding experiences
+- Mastering **AI + Automation**
+- Building cool stuff with **Neo4j**, **Google Cloud**, **UiPath**
+- Sharing knowledge through hands-on projects
 
 ---
 
-### 📫 Let's Connect
-Feel free to check out my work or reach out!  
-🌍 [GitHub Profile](https://github.com/saptarshi-sen1)  
-📬 Drop a message anytime — I’m always up for a good tech talk.
+### 📬 Connect with Me
+[GitHub Profile](https://github.com/saptarshi-sen1) | Let’s build together!
 
 ---
 
