@@ -42,7 +42,7 @@
 
 ## 📈 Current Focus
 
-- Deep diving into **AI + Automation**  
+- Deep diving into **AI + Automation + DSA**
 - Building projects with **Neo4j**, **Google Cloud**, **UiPath**  
 - Learning through hands-on challenges and real-world problems
 
