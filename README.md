@@ -8,22 +8,30 @@
 ---
 
 ## 🏆 GitHub Trophy Cabinet
+<div align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi-sen1&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=saptarshi-sen1&theme=radical&hide_border=true)](https://git.io/streak-stats)  
 
 ---
 
 ## 📊 GitHub Stats
-![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saptarshi-sen1&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-sen1&layout=compact&theme=radical&hide_border=true)  
+<div align="center">
+  
+![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saptarshi-sen1&show_icons=true&theme=radical&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-sen1&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
 ## 🛠️ Languages & Tools
+<div align="center">
+  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,19 +44,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
 ---
 
-## 📈 Current Focus
-- Deep diving into **AI + Automation + DSA**  
-- Building projects with **Neo4j**, **Google Cloud**, **UiPath**  
-- Learning through **hands-on challenges and real-world problems**  
-
----
 
 ## ✨ Profile Insights
-![Followers](https://img.shields.io/github/followers/saptarshi-sen1?style=social)  
-![Stars](https://img.shields.io/github/stars/saptarshi-sen1?style=social)  
+<div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=saptarshi-sen1&label=Profile%20Views&color=ff69b4&style=flat)  
+
+</div>
+
+![snake gif](https://github.com/saptarshi-sen1/saptarshi-sen1/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -63,4 +70,4 @@
 
 ---
 
-> _“The best way to predict the future is to invent it.” — Alan Kay_  
+> _“The best way to predict the future is to invent it.” — Alan Kay_
