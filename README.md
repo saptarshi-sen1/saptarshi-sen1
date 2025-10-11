@@ -9,29 +9,35 @@
 
 ## 🏆 GitHub Trophy Cabinet
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi-sen1&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saptarshi-sen1&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=saptarshi-sen1&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=saptarshi-sen1&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saptarshi-sen1&show_icons=true&theme=radical&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-sen1&layout=compact&theme=radical&hide_border=true)  
+
+![Saptarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saptarshi-sen1&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshi-sen1&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
 ## 🛠️ Languages & Tools
 <div align="center">
-  
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,26 +54,33 @@
 
 ---
 
-
 ## ✨ Profile Insights
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=saptarshi-sen1&label=Profile%20Views&color=ff69b4&style=flat)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=saptarshi-sen1&label=Profile%20Views&color=ff69b4&style=flat)
 
 </div>
 
+<div align="center">
+
 ![snake gif](https://github.com/saptarshi-sen1/saptarshi-sen1/blob/output/github-snake-dark.svg)
+
+</div>
 
 ---
 
 ## 📬 Connect with Me
 - [GitHub Profile](https://github.com/saptarshi-sen1)  
-- 💬 Let’s build something meaningful together!  
+- 💬 Let’s build something meaningful together!
 
 ---
 
 ## 📜 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
