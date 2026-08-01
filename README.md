@@ -176,21 +176,13 @@ An RPA pipeline that automates student marks distribution end-to-end, removing m
 
 <div align="center">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=saptarshi-sen1&show_icons=true&theme=transparent&hide_border=true&title_color=56D8C9&icon_color=56D8C9&text_color=C9D1D9#gh-dark-mode-only" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=saptarshi-sen1&show_icons=true&theme=transparent&hide_border=true&title_color=2C7A70&icon_color=2C7A70&text_color=8B98A5" height="165" alt="GitHub stats">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=saptarshi-sen1&layout=compact&theme=transparent&hide_border=true&title_color=56D8C9&text_color=C9D1D9#gh-dark-mode-only" height="165" alt="Top languages">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=saptarshi-sen1&layout=compact&theme=transparent&hide_border=true&title_color=2C7A70&text_color=8B98A5" height="165" alt="Top languages">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=saptarshi-sen1&show_icons=true&theme=transparent&hide_border=true&title_color=0E7C74&icon_color=0E7C74&text_color=24292F#gh-light-mode-only" height="165" alt="GitHub stats">
+<img src="https://streak-stats.demolab.com?user=saptarshi-sen1&hide_border=true&background=00000000&ring=2C7A70&fire=2C7A70&currStreakLabel=2C7A70&sideLabels=8B98A5&currStreakNum=8B98A5&sideNums=8B98A5&dates=8B98A5" alt="GitHub streak">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=saptarshi-sen1&layout=compact&theme=transparent&hide_border=true&title_color=0E7C74&text_color=24292F#gh-light-mode-only" height="165" alt="Top languages">
-
-<img src="https://streak-stats.demolab.com?user=saptarshi-sen1&theme=transparent&hide_border=true&ring=56D8C9&fire=56D8C9&currStreakLabel=56D8C9#gh-dark-mode-only" alt="GitHub streak">
-
-<img src="https://streak-stats.demolab.com?user=saptarshi-sen1&theme=transparent&hide_border=true&ring=0E7C74&fire=0E7C74&currStreakLabel=0E7C74#gh-light-mode-only" alt="GitHub streak">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshi-sen1&theme=react-dark&hide_border=true&bg_color=00000000&color=56D8C9&line=56D8C9&point=E3A857#gh-dark-mode-only" width="100%" alt="Contribution activity graph">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshi-sen1&theme=default&hide_border=true&bg_color=00000000&color=0E7C74&line=0E7C74&point=A9660B#gh-light-mode-only" width="100%" alt="Contribution activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saptarshi-sen1&hide_border=true&bg_color=00000000&color=8B98A5&line=2C7A70&point=2C7A70&area=false" width="100%" alt="Contribution activity graph">
 
 <img src="https://raw.githubusercontent.com/saptarshi-sen1/saptarshi-sen1/output/github-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution snake">
 
