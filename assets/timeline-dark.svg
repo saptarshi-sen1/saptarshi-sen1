@@ -1,29 +1,17 @@
 <svg width="760" height="430" viewBox="0 0 760 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline rendered as a commit log">
   <style>
-    :root { color-scheme: light dark; }
-    .bg    { fill:#FAFBFC; }
-    .panel { fill:#FFFFFF; stroke:#D7DCE1; stroke-width:1; }
-    .rail  { stroke:#D7DCE1; }
-    .node  { fill:#FFFFFF; stroke:#0E7C74; stroke-width:2.5; }
-    .node.now { fill:#0E7C74; }
-    .hash  { fill:#0E7C74; font-family:'JetBrains Mono','Fira Code',monospace; font-size:12px; }
-    .title { fill:#24292F; font-family:'JetBrains Mono','Fira Code',monospace; font-size:14.5px; font-weight:600; }
-    .desc  { fill:#57606A; font-family:'JetBrains Mono','Fira Code',monospace; font-size:12px; }
-    .path  { fill:#57606A; font-family:'JetBrains Mono','Fira Code',monospace; font-size:12px; }
-    .dot-r { fill:#E5645B; } .dot-y { fill:#D9A441; } .dot-g { fill:#4C9A6A; }
-
-    @media (prefers-color-scheme: dark) {
-      .bg    { fill:#0A0E14; }
-      .panel { fill:#0F141C; stroke:#1E2733; }
-      .rail  { stroke:#1E2733; }
-      .node  { fill:#0F141C; stroke:#56D8C9; }
-      .node.now { fill:#56D8C9; }
-      .hash  { fill:#56D8C9; }
-      .title { fill:#E6EAEF; }
-      .desc  { fill:#8891A1; }
-      .path  { fill:#6B7685; }
-      .dot-y { fill:#E3A857; } .dot-g { fill:#6FBF8B; }
-    }
+    .bg { fill:#0A0E14; }
+    .panel { fill:#0F141C; stroke:#1E2733; }
+    .rail { stroke:#1E2733; }
+    .node { fill:#0F141C; stroke:#56D8C9; }
+    .node.now { fill:#56D8C9; }
+    .hash { fill:#56D8C9; }
+    .title { fill:#E6EAEF; }
+    .desc { fill:#8891A1; }
+    .path { fill:#6B7685; }
+    .dot-r { fill:#E5645B; }
+    .dot-y { fill:#E3A857; }
+    .dot-g { fill:#6FBF8B; }
   </style>
 
   <rect class="bg" width="760" height="430" rx="10"/>

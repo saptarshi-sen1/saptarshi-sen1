@@ -1,26 +1,17 @@
 <svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal session closed. Have a great day.">
   <style>
-    :root { color-scheme: light dark; }
-    .bg     { fill:#FAFBFC; }
-    .panel  { fill:#FFFFFF; stroke:#D7DCE1; stroke-width:1; }
-    .titlebar{ fill:#F1F3F5; }
+    .bg { fill:#FAFBFC; }
+    .panel { fill:#FFFFFF; stroke:#D7DCE1; stroke-width:1; }
+    .titlebar { fill:#F1F3F5; }
     .prompt { fill:#0E7C74; font-family:'JetBrains Mono','Fira Code',monospace; font-size:15px; }
-    .line   { fill:#57606A; font-family:'JetBrains Mono','Fira Code',monospace; font-size:14px; }
+    .line { fill:#57606A; font-family:'JetBrains Mono','Fira Code',monospace; font-size:14px; }
     .strong { fill:#24292F; font-family:'JetBrains Mono','Fira Code',monospace; font-size:14px; font-weight:600; }
-    .dot-r  { fill:#E5645B; } .dot-y { fill:#D9A441; } .dot-g { fill:#4C9A6A; }
+    .dot-r { fill:#E5645B; }
+    .dot-y { fill:#D9A441; }
+    .dot-g { fill:#4C9A6A; }
     .cursor { fill:#0E7C74; animation: blink 1s steps(1) infinite; }
-    @keyframes blink { 0%,49%{opacity:1;} 50%,100%{opacity:0;} }
-
-    @media (prefers-color-scheme: dark) {
-      .bg      { fill:#0A0E14; }
-      .panel   { fill:#0F141C; stroke:#1E2733; }
-      .titlebar{ fill:#131A24; }
-      .prompt  { fill:#56D8C9; }
-      .line    { fill:#8891A1; }
-      .strong  { fill:#E6EAEF; }
-      .dot-y   { fill:#E3A857; } .dot-g { fill:#6FBF8B; }
-      .cursor  { fill:#56D8C9; }
-    }
+    0%,49% { opacity:1; }
+    50%,100% { opacity:0; }
   </style>
 
   <rect class="bg" width="1000" height="150" rx="10"/>
