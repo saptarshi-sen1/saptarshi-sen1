@@ -1,0 +1,13 @@
+<svg width="1000" height="46" viewBox="0 0 1000 46" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="terminal divider">
+  <style>
+    .bg{ fill:#0A0E14; }
+    .panel{ fill:#0F141C; stroke:#1E2733; stroke-width:1; }
+    .prompt{ fill:#56D8C9; font-family:'JetBrains Mono','Fira Code',monospace; font-size:14px; }
+    .cursor{ fill:#56D8C9; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 0%,49%{opacity:1;} 50%,100%{opacity:0;} }
+  </style>
+  <rect class="bg" width="1000" height="46"/>
+  <rect class="panel" x="0.5" y="0.5" width="999" height="45" rx="6"/>
+  <text class="prompt" x="20" y="28">saptarshi@kiit:~$</text>
+  <rect class="cursor" x="168" y="16" width="8" height="14"/>
+</svg>
